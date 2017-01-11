@@ -42,8 +42,8 @@ Please work on each task or subtask in a separate branch (called *tast branch* o
 When you develop your code, please follow the workflow below:
 
   1.  Collaborate within the group. Create small commits and exchange by push/pull-ing from the forks.
-  1.  Make sure you frequently pull and rebase `«upstream»/master` onto the `dev_{system}` branch.
+  1.  Make sure you frequently pull and rebase `«rmtstream»/master` onto the `dev_{system}` branch.
   1.  Once the algorithm is unit-tested and works, [squash all small commits](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html) into logical commits with clear content description (e.g. one for the algorithm and one for the uni-test).
-  1.  [Create a pull request](https://help.github.com/articles/creating-a-pull-request) from your feature branch to the `«upstream»/master`.
-  1.  After reviewing the code, we will merge your code into `«upstream»/master`.
+  1.  [Create a pull request](https://help.github.com/articles/creating-a-pull-request) from your feature branch to the `«rmtstream»/master`.
+  1.  After reviewing the code, we will merge your code into `«rmtstream»/master`.
   
