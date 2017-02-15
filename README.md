@@ -12,7 +12,7 @@ Clone the main repository and rename it's remote handle as «rmtstream»:
 
 ``` bash
 git clone https://github.com/csfacultynu/Pashto-NLP.git
-cd IMPRO-3.SS15
+cd Pashto-NLP
 git remote rename origin rmtstream
 ```
 
